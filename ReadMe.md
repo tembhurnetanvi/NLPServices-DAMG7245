@@ -6,4 +6,6 @@
 
 ### Streamlit url:[Streamlit](https://nlpservices-streamlit-v1-th4rn5qo6a-uc.a.run.app)
 
-
+### Constraints
+#### Index--Please Enter Integer Value
+#### Text--Please Enter Text without " or '
